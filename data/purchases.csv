@@ -1,0 +1,64 @@
+purchase_id,customer_id,customer_name,product_id,product_name,category,purchase_date,quantity
+T9001,C116,Barasa,P14,Tusker Lager 6-pack,Beverages,2026-10-01,2
+T9002,C120,Juma,P12,Omo 2kg,Household,2026-10-01,2
+T9003,C105,Njeri,P02,Brookside Milk 1L,Dairy,2026-10-01,2
+T9004,C102,Otieno,P01,Kienyeji Eggs (tray),Fresh,2026-10-01,2
+T9005,C114,Omondi,P06,Pishori Rice 5kg,Pantry,2026-10-02,2
+T9006,C113,Wambui,P01,Kienyeji Eggs (tray),Fresh,2026-10-02,2
+T9007,C113,Wambui,P02,Brookside Milk 1L,Dairy,2026-10-02,2
+T9008,C110,Kiprop,P10,Pampers Size 3,Baby,2026-10-03,1
+T9009,C106,Mwangi,P06,Pishori Rice 5kg,Pantry,2026-10-03,1
+T9010,C110,Kiprop,P01,Kienyeji Eggs (tray),Fresh,2026-10-04,1
+T9010,C110,Kiprop,P01,Kienyeji Eggs (tray),Fresh,2026-10-04,1
+T9011,C118,Kariuki,P06,Pishori Rice 5kg,Pantry,2026-10-04,3
+T9012,C114,Omondi,P01,Kienyeji Eggs (tray),Fresh,2026-10-05,3
+T9013,C118,Kariuki,P05,Kimbo 1kg,Pantry,2026-10-05,1
+T9014,C117,Zawadi,P04,Blue Band 500g,Dairy,2026-10-05,1
+T9015,C117,Zawadi,P10,Pampers Size 3,Baby,2026-10-05,1
+T9016,C107,Chebet,P10,Pampers Size 3,Baby,2026-10-05,3
+T9017,C109,Fatma,P03,Festive Bread,Bakery,2026-10-06,3
+T9018,C119,Amina,P11,Johnson's Baby Lotion,Baby,2026-10-06,1
+T9019,C120,Juma,P13,Jik Bleach 750ml,Household,2026-10-06,3
+T9020,C105,Njeri,,,Fresh,2026-10-06,3
+T9021,C106,Mwangi,P05,Kimbo 1kg,Pantry,2026-10-07,3
+T9022,C113,Wambui,P03,Festive Bread,Bakery,2026-10-08,1
+T9023,C112,Mutua,P13,Jik Bleach 750ml,Household,2026-10-08,1
+T9024,C110,Kiprop,P07,Royco Mchuzi Mix,Pantry,2026-10-10,1
+T9025,C118,Kariuki,P01,Kienyeji Eggs (tray),Fresh,2026-10-10,1
+T9026,C107,Chebet,P15,Kenchic Whole Chicken,Fresh,2026-10-11,2
+T9027,C107,Chebet,P11,Johnson's Baby Lotion,Baby,2026-10-12,2
+T9028,C115,Nekesa,P10,Pampers Size 3,Baby,2026-10-12,3
+T9029,C120,Juma,P03,Festive Bread,Bakery,2026-10-13,3
+T9030,C119,Amina,P12,Omo 2kg,Household,2026-10-13,1
+T9031,C113,Wambui,P05,Kimbo 1kg,Pantry,2026-10-13,1
+T9032,C103,Achieng,P10,Pampers Size 3,Baby,2026-10-14,3
+T9033,C115,Nekesa,P12,Omo 2kg,Household,2026-10-14,0
+T9034,C111,Akinyi,P10,Pampers Size 3,Baby,2026-10-14,1
+T9035,C117,Zawadi,P08,Ketepa Tea 250g,Beverages,2026-10-14,2
+T9036,C107,Chebet,P12,Omo 2kg,Household,2026-10-14,2
+T9037,C120,Juma,P09,Nescafe Classic 100g,Beverages,2026-10-15,1
+T9038,C101,Wanjiru,P08,Ketepa Tea 250g,Beverages,2026-10-16,3
+T9039,C101,Wanjiru,P04,Blue Band 500g,Dairy,2026-10-16,1
+T9040,C108,Hassan,P09,Nescafe Classic 100g,Beverages,2026-10-16,1
+T9041,c106,Mwangi,P15,Kenchic Whole Chicken,Fresh,2026-10-16,1
+T9042,C108,Hassan,P03,Festive Bread,Bakery,2026-10-16,1
+T9043,C114,Omondi,P07,Royco Mchuzi Mix,Pantry,2026-10-17,3
+T9044,C107,Chebet,P02,Brookside Milk 1L,Dairy,2026-10-17,2
+T9045,C108,Hassan,P13,Jik Bleach 750ml,Household,2026-10-18,3
+T9046,C104,Kamau,P12,Omo 2kg,Household,2026-10-18,2
+T9047,C102,Otieno,P06,Pishori Rice 5kg,Pantry,2026-10-19,2
+T9048,C115,Nekesa,P11,Johnson's Baby Lotion,Baby,2026-10-19,2
+T9049,C119,Amina,P02,Brookside Milk 1L,Dairy,2026-10-20,1
+T9050,C109,Fatma,P08,Ketepa Tea 250g,Beverages,2026-10-20,1
+T9051,C104,Kamau,P09,Nescafe Classic 100g,Beverages,2026-10-21,2
+T9052,C111,Akinyi,P02,Brookside Milk 1L,Dairy,2026-10-22,1
+T9053,C117,Zawadi,P03,Festive Bread,Bakery,2026-10-22,2
+T9054,C113,Wambui,P04,Blue Band 500g,Dairy,2026-10-22,2
+T9055,C112,Mutua,P03,Festive Bread,Bakery,2026-10-22,1
+T9056,C116,Barasa,P03,Festive Bread,Bakery,2026-10-22,1
+T9057,C104,Kamau,P13,Jik Bleach 750ml,Household,2026-10-23,1
+T9058,C103,Achieng,P11,Johnson's Baby Lotion,Baby,2026-10-23,1
+T9059,C116,Barasa,P09,Nescafe Classic 100g,Beverages,2026-10-23,1
+T9060,C108,Hassan,P12,Omo 2kg,Household,2026-10-24,3
+T9061,C105,Njeri,P15,Kenchic Whole Chicken,Fresh,2026-10-24,2
+T9062,C111,Akinyi,P12,Omo 2kg,Household,2026-10-24,3
